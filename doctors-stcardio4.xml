@@ -1,13 +1,13 @@
 <shop version="2.0" date="2025-10-10 08:06">
-<!-- Версия фида (обязательно "2.0") и дата обновления информации -->
+
 <name>Центр лечения аритмий</name>
-<!-- Название площадки для отображения в карточке -->
+
 <company>Северо-Западный центр диагностики и лечения аритмий</company>
-<!-- Название организации -->
+
 <url>https://stcardio.ru/</url>
-<!-- URL-адрес площадки -->
+
 <picture>https://static.tildacdn.com/tild3430-3864-4566-b534-333361373064/ST_-_2_1.svg</picture>
-<!-- Логотип площадки -->
+
 <email>info@stcardio.ru</email>
 
 <doctors>
@@ -21,15 +21,15 @@
 <surname>Баймурадов</surname>
 <patronymic>Усманович</patronymic>
 <experience_years>25</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2000-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_2">
 <name>Батурова Мария Альбертовна</name>
@@ -41,15 +41,15 @@
 <surname>Батурова</surname>
 <patronymic>Альбертовна</patronymic>
 <experience_years>25</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2000-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_3">
 <name>Боцва Ирина Юрьевна</name>
@@ -61,15 +61,15 @@
 <surname>Боцва</surname>
 <patronymic>Юрьевна</patronymic>
 <experience_years>18</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2007-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_4">
 <name>Гневашева Наталья Анатольевна</name>
@@ -81,15 +81,15 @@
 <surname>Гневашева</surname>
 <patronymic>Анатольевна</patronymic>
 <experience_years>13</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2012-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_5">
 <name>Гордеева Марина Валентиновна</name>
@@ -101,15 +101,15 @@
 <surname>Гордеева</surname>
 <patronymic>Валентиновна</patronymic>
 <experience_years>30</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1995-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_6">
 <name>Каменев Александр Валентинович</name>
@@ -121,15 +121,15 @@
 <surname>Каменев</surname>
 <patronymic>Валентинович</patronymic>
 <experience_years>15</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2010-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_7">
 <name>Корнеев Александр Борисович</name>
@@ -141,15 +141,15 @@
 <surname>Корнеев</surname>
 <patronymic>Борисович</patronymic>
 <experience_years>3</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2022-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_8">
 <name>Козлов Павел Станиславович</name>
@@ -161,15 +161,15 @@
 <surname>Козлов</surname>
 <patronymic>Станиславович</patronymic>
 <experience_years>15</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2010-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>Кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_9">
 <name>Крятова Татьяна Вадимовна</name>
@@ -181,15 +181,15 @@
 <surname>Крятова</surname>
 <patronymic>Вадимовна</patronymic>
 <experience_years>40</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1985-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>Кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_10">
 <name>Кудинов Павел Юрьевич</name>
@@ -201,15 +201,15 @@
 <surname>Кудинов</surname>
 <patronymic>Юрьевич</patronymic>
 <experience_years>20</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2005-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_11">
 <name>Лаевская Мария Юрьевна</name>
@@ -221,15 +221,15 @@
 <surname>Лаевская</surname>
 <patronymic>Юрьевна</patronymic>
 <experience_years>25</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2000-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>Кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_12">
 <name>Медведев Михаил Маркович</name>
@@ -241,15 +241,15 @@
 <surname>Медведев</surname>
 <patronymic>Маркович</patronymic>
 <experience_years>40</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1985-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>Доктор наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_13">
 <name>Никитин Сергей Петрович</name>
@@ -261,15 +261,15 @@
 <surname>Никитин</surname>
 <patronymic>Петрович</patronymic>
 <experience_years>10</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2015-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_14">
 <name>Ривин Алексей Евгеньевич</name>
@@ -281,15 +281,15 @@
 <surname>Ривин</surname>
 <patronymic>Евгеньевич</patronymic>
 <experience_years>20</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2005-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_15">
 <name>Ромашевский Борис Владимирович</name>
@@ -301,15 +301,15 @@
 <surname>Ромашевский</surname>
 <patronymic>Владимирович</patronymic>
 <experience_years>30</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1995-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>Кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_16">
 <name>Шубик Юрий Викторович</name>
@@ -321,15 +321,15 @@
 <surname>Шубик</surname>
 <patronymic>Викторович</patronymic>
 <experience_years>40</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1985-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>Доктор наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_17">
 <name>Скигин Илья Олегович</name>
@@ -341,15 +341,15 @@
 <surname>Скигин</surname>
 <patronymic>Олегович</patronymic>
 <experience_years>20</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2005-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>Кандидат наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_18">
 <name>Сокуренко Наталья Сергеевна</name>
@@ -361,15 +361,15 @@
 <surname>Сокуренко</surname>
 <patronymic>Сергеевна</patronymic>
 <experience_years>30</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1995-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_19">
 <name>Сорейя Асафовна Уразгильдеева</name>
@@ -381,15 +381,15 @@
 <surname>Асафовна</surname>
 <patronymic>Уразгильдеева</patronymic>
 <experience_years>35</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1990-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree>Доктор наук</degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_20">
 <name>Вакушкина Светлана Алексеевна</name>
@@ -401,15 +401,15 @@
 <surname>Вакушкина</surname>
 <patronymic>Алексеевна</patronymic>
 <experience_years>30</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1995-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_21">
 <name>Задионова Елена Борисовна</name>
@@ -421,15 +421,15 @@
 <surname>Задионова</surname>
 <patronymic>Борисовна</patronymic>
 <experience_years>5</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2020-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_22">
 <name>Берман Михаил Валерьевич</name>
@@ -441,15 +441,15 @@
 <surname>Берман</surname>
 <patronymic>Валерьевич</patronymic>
 <experience_years>20</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2005-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category>Высшая</category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_23">
 <name>Морозов Александр Николаевич</name>
@@ -461,15 +461,15 @@
 <surname>Морозов</surname>
 <patronymic>Николаевич</patronymic>
 <experience_years>13</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2012-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_24">
 <name>Мещерова Динара Кямилевна</name>
@@ -481,15 +481,15 @@
 <surname>Мещерова</surname>
 <patronymic>Кямилевна</patronymic>
 <experience_years>10</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2015-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_25">
 <name>Григоренко Мария Викторовна</name>
@@ -501,15 +501,15 @@
 <surname>Григоренко</surname>
 <patronymic>Викторовна</patronymic>
 <experience_years>8</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2017-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_26">
 <name>Масенцова Елена Витальевна</name>
@@ -521,15 +521,15 @@
 <surname>Масенцова</surname>
 <patronymic>Витальевна</patronymic>
 <experience_years>5</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2020-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_27">
 <name>Гневашев Александр Станиславович</name>
@@ -541,15 +541,15 @@
 <surname>Гневашев</surname>
 <patronymic>Станиславович</patronymic>
 <experience_years>35</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1990-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_28">
 <name>Азаркина Татьяна Николаевна</name>
@@ -561,15 +561,15 @@
 <surname>Азаркина</surname>
 <patronymic>Николаевна</patronymic>
 <experience_years>30</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1995-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_29">
 <name>Павлова Вера Ивановна</name>
@@ -581,15 +581,15 @@
 <surname>Павлова</surname>
 <patronymic>Ивановна</patronymic>
 <experience_years>25</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2000-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_30">
 <name>Савицкий Дмитрий Владимирович</name>
@@ -601,15 +601,15 @@
 <surname>Савицкий</surname>
 <patronymic>Владимирович</patronymic>
 <experience_years>17</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2008-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_31">
 <name>Павлыш Елена Федоровна</name>
@@ -621,15 +621,15 @@
 <surname>Павлыш</surname>
 <patronymic>Федоровна</patronymic>
 <experience_years>30</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1995-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_32">
 <name>Меркулова Наталья Ивановна</name>
@@ -641,15 +641,15 @@
 <surname>Меркулова</surname>
 <patronymic>Ивановна</patronymic>
 <experience_years>30</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>1995-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_33">
 <name>Разумовский Евгений Сергеевич</name>
@@ -661,15 +661,15 @@
 <surname>Разумовский</surname>
 <patronymic>Сергеевич</patronymic>
 <experience_years>5</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2020-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor>
 <doctor id="doctor_34">
 <name>Карпачев Владимир Валериевич</name>
@@ -681,31 +681,31 @@
 <surname>Карпачев</surname>
 <patronymic>Валериевич</patronymic>
 <experience_years>20</experience_years>
-<!-- Сколько лет опыта -->
+
 <career_start_date>2005-01-01</career_start_date>
-<!-- Дата начала карьеры в формате ISO 8601 -->
+
 <degree></degree>
-<!-- Кандидат / доктор наук. -->
+
 <rank></rank>
-<!-- Профессор / доцент. -->
+
 <category></category>
-<!-- Первая / вторая / высшая -->
+
 </doctor></doctors>
 
 <clinics>
 <clinic id="clinic_1">
 <url>https://stcardio.ru/</url>
-<!-- Ссылка на сайт клиники -->
+
 <picture>https://static.tildacdn.com/tild3430-3864-4566-b534-333361373064/ST_-_2_1.svg</picture>
-<!-- Ссылка на логотип клиники -->
+
 <name>Северо-Западный центр диагностики и лечения аритмий</name>
 <city>г. Санкт-Петербург</city>
 <address>пр. Луначарского, д. 40, к. 4</address>
 <email>info@stcardio.ru</email>
 <phone>+78126777703</phone>
-<!-- телефон для записи. Можно указать несколько -->
+
 <company_id>88542692989</company_id>
-<!-- Идентификатор организации в Яндексе. Можно посмотреть в Яндекс.Бизнес или на Яндекс картах ссылки вида https://yandex.ru/profile/88542692989 -->
+
 </clinic>
 </clinics>
 <services>
