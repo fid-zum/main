@@ -922,7 +922,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_24">
-<speciality>Кардиолог-аритмолог, сомнолог</speciality>
+<speciality>Кардиолог-аритмолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -990,7 +990,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_30">
-<speciality>Сердечно-сосудистый хирург, врач по рентгенэндоваскулярной диагностике и лечению</speciality>
+<speciality>Сердечно-сосудистый хирург</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1075,7 +1075,7 @@
 <service id="service_2"/>
 <clinic id="clinic_1">
 <doctor id="doctor_31">
-<speciality>Кардиолог, врач функциональной диагностики</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1126,7 +1126,7 @@
 <service id="service_5"/>
 <clinic id="clinic_1">
 <doctor id="doctor_1">
-<speciality>Врач общей практики, семейный врач, терапевт</speciality>
+<speciality>Врач общей практики</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1143,7 +1143,7 @@
 <service id="service_2"/>
 <clinic id="clinic_1">
 <doctor id="doctor_28">
-<speciality>Врач функциональной и ультразвуковой диагностики</speciality>
+<speciality>Врач функциональной диагностики</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1228,7 +1228,7 @@
 <service id="service_2"/>
 <clinic id="clinic_1">
 <doctor id="doctor_8">
-<speciality>Врач функциональной диагностики, кардиолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1245,7 +1245,7 @@
 <service id="service_2"/>
 <clinic id="clinic_1">
 <doctor id="doctor_13">
-<speciality>Врач функциональной и ультразвуковой диагностики</speciality>
+<speciality>Врач функциональной диагностики</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
