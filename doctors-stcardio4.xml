@@ -194,7 +194,7 @@
 <doctor id="doctor_10">
 <name>Кудинов Павел Юрьевич</name>
 <url>https://stcardio.ru/doctors/kudinov-pavel-yurevich/?utm_source=yandexserp</url>
-<description>Cомнолог</description>
+<description>Кардиолог-сомнолог</description>
 <picture>https://static.tildacdn.com/tild3965-3634-4362-b134-653332336562/8W5A5011_1__.jpg</picture>
 
 <first_name>Павел</first_name>
@@ -204,11 +204,11 @@
 
 <career_start_date>2005-01-01</career_start_date>
 
-<degree></degree>
+<degree>Кандидат наук</degree>
 
 <rank></rank>
 
-<category></category>
+<category>Высшая</category>
 
 </doctor>
 <doctor id="doctor_11">
@@ -1321,4 +1321,5 @@
 </offer>
 </offers>
 </shop>
+
 
