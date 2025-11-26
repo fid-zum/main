@@ -752,7 +752,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_2">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Аритмолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -769,7 +769,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_22">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Аритмолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -786,7 +786,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_3">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -820,7 +820,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_5">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -837,7 +837,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_6">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -871,7 +871,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_9">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -888,7 +888,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_10">
-<speciality>Кардиолог-сомнолог</speciality>
+<speciality>Сомнолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -905,7 +905,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_12">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -922,7 +922,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_24">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -973,7 +973,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_14">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1024,7 +1024,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_18">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1041,7 +1041,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_19">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1058,7 +1058,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_16">
-<speciality>Кардиолог-аритмолог</speciality>
+<speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1177,7 +1177,7 @@
 <service id="service_2"/>
 <clinic id="clinic_1">
 <doctor id="doctor_25">
-<speciality>Врач ультразвуковой диагностики</speciality>
+<speciality>Врач УЗИ</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1194,7 +1194,7 @@
 <service id="service_2"/>
 <clinic id="clinic_1">
 <doctor id="doctor_21">
-<speciality>Врач ультразвуковой диагностики</speciality>
+<speciality>Врач УЗИ</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1211,7 +1211,7 @@
 <service id="service_2"/>
 <clinic id="clinic_1">
 <doctor id="doctor_34">
-<speciality>Врач ультразвуковой диагностики</speciality>
+<speciality>Врач УЗИ</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1321,5 +1321,6 @@
 </offer>
 </offers>
 </shop>
+
 
 
