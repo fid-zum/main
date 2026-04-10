@@ -481,6 +481,20 @@
 
 
 </doctor>
+<doctor id="doctor_35">
+<name>Климов Евгений Викторович</name>
+<url>https://stcardio.ru/doctors/klimov-evgeniy-viktorovich/?utm_source=yandexserp</url>
+<description>Врач функциональной диагностики</description>
+<picture>https://static.tildacdn.com/tild6664-3837-4234-a162-653563666366/Gemini_Generated_Ima.jpg</picture>
+<first_name>Евгений</first_name>
+<surname>Климов</surname>
+<patronymic>Викторович</patronymic>
+<experience_years>24</experience_years>
+<career_start_date>2002-01-01</career_start_date>
+
+
+
+</doctor>
 </doctors>
 <clinics>
 <clinic id="clinic_1">
@@ -1100,6 +1114,23 @@
 <clinic id="clinic_1">
 <doctor id="doctor_32">
 <speciality>Невролог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_35">
+<url>https://stcardio.ru/doctors/klimov-evgeniy-viktorovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>1000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_2"/>
+<clinic id="clinic_1">
+<doctor id="doctor_35">
+<speciality>Врач функциональной диагностики</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
